@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a01618593ec4e3245956c74769f25b17
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/LegacyShaders/UnityStandardParticleShadow.cginc
+  uploadId: 990576

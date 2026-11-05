@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9141f281a0b7a8344962a0e677d847a3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/Environment/Rock/DistantTerrain.prefab
+  uploadId: 990576

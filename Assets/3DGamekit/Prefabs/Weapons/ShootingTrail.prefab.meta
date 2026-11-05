@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b75bfd07e3794e04991df1d8699acccb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/Weapons/ShootingTrail.prefab
+  uploadId: 990576

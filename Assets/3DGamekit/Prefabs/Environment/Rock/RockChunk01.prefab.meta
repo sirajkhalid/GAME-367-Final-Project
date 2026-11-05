@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 28ac81b967e3af647a58169b4ca8917b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/Environment/Rock/RockChunk01.prefab
+  uploadId: 990576

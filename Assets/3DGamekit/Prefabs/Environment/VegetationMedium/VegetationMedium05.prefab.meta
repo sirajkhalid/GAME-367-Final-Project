@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 85a926525e0c62d449cd48e8db587169
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/Environment/VegetationMedium/VegetationMedium05.prefab
+  uploadId: 990576

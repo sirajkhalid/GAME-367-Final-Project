@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2e2e139c47bb3714d8d90a6ff34feefb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/Environment/Rock/RockFloating01.prefab
+  uploadId: 990576

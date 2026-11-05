@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 89e3e5a35c1a5aa4c8d41fa55f438def
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/VFX/Characters/Enemies/Grenadier/GrenadierGrenadeExplosion.prefab
+  uploadId: 990576

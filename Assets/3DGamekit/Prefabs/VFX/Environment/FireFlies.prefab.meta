@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c070dd170a835104383550817e3b4c8d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/VFX/Environment/FireFlies.prefab
+  uploadId: 990576

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6bd94cdd1484b2841a02028ad605dfda
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/Utilities/Checkpoint.prefab
+  uploadId: 990576

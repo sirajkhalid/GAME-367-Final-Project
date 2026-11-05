@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 2a073f94349d443819687f193bed9c18
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scripts/Rendering/RenderFeatures/GaussianBlurRenderFeature.cs
+  uploadId: 990576

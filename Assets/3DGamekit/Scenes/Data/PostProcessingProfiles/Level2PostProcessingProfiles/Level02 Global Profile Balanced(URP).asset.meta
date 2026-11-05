@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ff4405ca199bb4c1bad3566ad5f56ebe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scenes/Data/PostProcessingProfiles/Level2PostProcessingProfiles/Level02
+    Global Profile Balanced(URP).asset
+  uploadId: 990576

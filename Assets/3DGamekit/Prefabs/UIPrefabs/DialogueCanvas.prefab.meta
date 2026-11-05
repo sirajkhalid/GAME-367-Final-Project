@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 114c5f41fd4099445a42c1d9bd01f222
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/UIPrefabs/DialogueCanvas.prefab
+  uploadId: 990576

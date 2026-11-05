@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{ae1d605c-1b31-407c-9609-b671a2c9375f}">
+		<property name="name">
+			<value>ImpactSpeed</value>
+		</property>
+		<relationship name="folder">
+			<destination>{61410285-da3c-4c78-8c8b-4cff0f578a31}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{ac6d32a6-7a3e-4714-b432-89a50098ec0b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{ac6d32a6-7a3e-4714-b432-89a50098ec0b}">
+		<property name="maximum">
+			<value>10</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

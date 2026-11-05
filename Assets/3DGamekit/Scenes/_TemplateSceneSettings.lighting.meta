@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 39a65ada784214cc69ba23edab08a6e7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scenes/_TemplateSceneSettings.lighting
+  uploadId: 990576

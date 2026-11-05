@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ae33cdbea5544a145aec990f5d8c344e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/Environment/Rock/CliffEdge04.prefab
+  uploadId: 990576

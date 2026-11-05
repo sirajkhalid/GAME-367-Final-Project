@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5c2b10402a7ebf64eb8e05dba607e2e7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/VFX/Environment/Dropship/EngineDistortion.prefab
+  uploadId: 990576

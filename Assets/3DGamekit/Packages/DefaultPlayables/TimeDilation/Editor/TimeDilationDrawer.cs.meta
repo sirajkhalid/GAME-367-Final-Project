@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 96853521ef6ea974d96cf7ef72f7c6a7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Packages/DefaultPlayables/TimeDilation/Editor/TimeDilationDrawer.cs
+  uploadId: 990576

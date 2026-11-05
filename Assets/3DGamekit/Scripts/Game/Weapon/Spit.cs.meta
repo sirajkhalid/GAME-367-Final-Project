@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9a12bd50a091d3f40bb6bd8d0ccdcd56
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scripts/Game/Weapon/Spit.cs
+  uploadId: 990576

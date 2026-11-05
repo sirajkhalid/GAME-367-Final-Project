@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 04b713e5e2f9944f5a52470997e08566
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/URPShaders/GaussianBlur.shader
+  uploadId: 990576

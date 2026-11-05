@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e7a4e183d1e7204459f2dab44d1cf267
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/Environment/Structures/Platform3x3.prefab
+  uploadId: 990576

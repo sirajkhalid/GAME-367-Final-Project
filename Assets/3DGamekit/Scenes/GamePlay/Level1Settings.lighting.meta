@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 54d83ed9e4ae440898a9c9d0a2d9966d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scenes/GamePlay/Level1Settings.lighting
+  uploadId: 990576

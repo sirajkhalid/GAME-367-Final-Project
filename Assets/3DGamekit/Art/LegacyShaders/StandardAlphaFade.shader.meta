@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9f3ea7c6ac6fdb7488e20b55f76f59ee
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/LegacyShaders/StandardAlphaFade.shader
+  uploadId: 990576

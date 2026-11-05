@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="Bank" id="{8eb73e71-e90d-4df6-aa70-7fc96f0872eb}">
+		<property name="name">
+			<value>SFX_Teleporter</value>
+		</property>
+		<relationship name="folder">
+			<destination>{bf58df90-59a9-4650-a70a-c909aef8f208}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: df778dfc69de7fb48809501a413b8bbf
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/LegacyShaders/Dissolve.shader
+  uploadId: 990576

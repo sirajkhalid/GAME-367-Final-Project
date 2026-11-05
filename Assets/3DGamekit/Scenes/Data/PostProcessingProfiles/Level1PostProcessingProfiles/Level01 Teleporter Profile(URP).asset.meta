@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 68d6adf874b4947c0ac564e5627641fd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scenes/Data/PostProcessingProfiles/Level1PostProcessingProfiles/Level01
+    Teleporter Profile(URP).asset
+  uploadId: 990576

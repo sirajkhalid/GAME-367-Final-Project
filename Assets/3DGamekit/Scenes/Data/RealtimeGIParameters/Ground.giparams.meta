@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 71b4b605178509c40a9daa68db33608c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 111300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scenes/Data/RealtimeGIParameters/Ground.giparams
+  uploadId: 990576

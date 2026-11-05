@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 32b8771f60808c1459334ae82d3d1373
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit | 3D Sample Project
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scripts/Game/Timeline/AudioSnapshot/Editor/AudioSnapshotDrawer.cs
+  uploadId: 990576

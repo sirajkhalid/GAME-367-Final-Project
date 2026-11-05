@@ -1,0 +1,8 @@
+# Large baked lighting data goes through Git LFS (GitHub rejects files over 100 MB).
+# GitHub Desktop handles LFS automatically.
+LightingData.asset filter=lfs diff=lfs merge=lfs -text
+
+# Instructor-only folders at the project root stay out of student zips (see Tools/MakeStudentZip.ps1).
+# The leading / matters: without it these would also match folders like Assets/.../Prefabs/Tools/.
+/Docs/ export-ignore
+/Tools/ export-ignore
