@@ -330,30 +330,8 @@ MonoBehaviour:
   VirtualChannelSettings: []
   RealChannelSettings: []
   Plugins: []
-  MasterBanks:
-  - Master
-  Banks:
-  - Dev
-  - Music_Level1
-  - Music_Pause
-  - Music_Start
-  - SFX_Ambience
-  - SFX_Box
-  - SFX_Chomper
-  - SFX_Door
-  - SFX_Ellen
-  - SFX_Grenade
-  - SFX_Grenadier
-  - SFX_Hazards
-  - SFX_HealthCrate
-  - SFX_PressurePad
-  - SFX_Switch
-  - SFX_Teleporter
-  - SFX_UI
-  - SFX_WeaponPedestal
-  - VO_Chomper
-  - VO_Ellen
-  - VO_Grenadier
+  MasterBanks: []
+  Banks: []
   BanksToLoad: []
   LiveUpdatePort: 9264
   EnableMemoryTracking: 0
