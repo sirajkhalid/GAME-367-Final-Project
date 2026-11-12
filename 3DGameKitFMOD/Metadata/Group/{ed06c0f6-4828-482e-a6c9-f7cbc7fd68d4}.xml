@@ -20,8 +20,14 @@
 	<object class="MixerBusEffectChain" id="{1d82685d-720f-4e32-9342-2fef7ddf4353}">
 		<relationship name="effects">
 			<destination>{83ef0db9-e5f0-4bbd-894f-5cdedd52238e}</destination>
+			<destination>{a86cb063-e7f5-4746-9e0a-945c459a2dce}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{08d55a0d-1283-4361-8942-a460608f9a33}" />
 	<object class="MixerBusFader" id="{83ef0db9-e5f0-4bbd-894f-5cdedd52238e}" />
+	<object class="LowpassEffect" id="{a86cb063-e7f5-4746-9e0a-945c459a2dce}">
+		<property name="cutoff">
+			<value>22000</value>
+		</property>
+	</object>
 </objects>
