@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{842f1abc-2d95-4ed8-8414-0c78390ba863}">
-		<property name="note">
-			<value>Music_Level1 - one music event for the whole level, plays from level start
-and keeps running. Driven by two GLOBAL parameters:
-
-MusicState (labeled) - priority: Boss &gt; BossDefeated &gt; zone
-  Main         - default; anywhere outside a music zone
-  Zone01       - zone near the start (was Atmos_Overground_02)
-  Zone02       - large zone, west-middle of Level1 (was Atmos_Overground_03)
-  Zone03       - small zone nested inside Zone02 (was Atmos_Overground_01)
-  Boss         - while the Grenadier is aware of Ellen (within 40 m);
-                 overrides any zone
-  BossDefeated - for N seconds after the Grenadier dies, then back to the
-                 current zone. N = Grenadier prefab &gt; Grenadier Behaviour &gt;
-                 Boss Defeated Music Time (default 10 s)
-
-CombatIntensity (continuous, 0-10) - number of enemies currently aware of
-  Ellen (Chompers from spotting her until they lose her; Grenadier counts 1).
-  Whole steps, raw count: use seek speed / hold so it doesn't flicker.
-
-Notes: zone sizes are a bit odd in Level1 (awkward switch back to Main near
-the last switch). Debug readout bottom-left in play mode shows MusicState
-and CombatIntensity. Test scene: zones behind the door, Chompers west,
-Grenadier east.
-</value>
-		</property>
+		<property name="note" />
 		<property name="name">
 			<value>Music_Level1</value>
 		</property>
