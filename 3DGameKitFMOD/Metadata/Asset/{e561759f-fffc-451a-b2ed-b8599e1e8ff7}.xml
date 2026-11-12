@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{e561759f-fffc-451a-b2ed-b8599e1e8ff7}">
+		<property name="assetPath">
+			<value>SFX_Chomper/SFX_ChomperBackSteps/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{4ae315bb-006f-4f8b-9d79-7afbc59d63dd}</destination>
+		</relationship>
+	</object>
+</objects>
